@@ -1,0 +1,7 @@
+{
+  "name": "AI Academic Advising System",
+  "description": "An intelligent student advising system including onboarding, degree roadmap, schedule builder with conflict detection, and an AI advisor.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
